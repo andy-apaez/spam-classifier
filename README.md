@@ -37,11 +37,15 @@ This project uses the SMS Spam Collection Dataset, which you can download from K
 
 ---
 📊 Example Output
-Accuracy: 0.98   precision  recall  f1-score   support
 
+           Accuracy: 0.98
+           precision    recall  f1-score   support
+              
            0       0.99      0.98      0.98       965
            1       0.92      0.97      0.94       150
 
-    accuracy                           0.98      1115
-   macro avg       0.95      0.97      0.96      1115
-weighted avg       0.98      0.98      0.98      1115
+   
+           accuracy                           0.98      1115
+           macro avg       0.95      0.97      0.96      1115
+           weighted avg       0.98      0.98      0.98      1115
+
