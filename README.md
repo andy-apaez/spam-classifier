@@ -25,3 +25,12 @@ A simple machine learning project that classifies SMS messages as spam or ham (n
 * scikit-learn – ML model & preprocessing
 
 * NLTK (optional) – text cleaning/tokenization
+
+---
+📂 Dataset
+
+This project uses the SMS Spam Collection Dataset, which you can download from Kaggle
+
+*label* → spam or ham
+
+*message* → SMS content
